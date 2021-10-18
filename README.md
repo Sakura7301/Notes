@@ -16,7 +16,7 @@
 
 [面试题](https://github.com/Sakura7301/Notes/tree/master/Notes/The%20interview)
 
-我上传的是pdf格式,你可以下载后查看。
+我上传的是pdf格式,建议你下载后查看。
 
 ## 原视频地址(顺序就是学习路线)
 
