@@ -1,6 +1,7 @@
 ![example](https://img.shields.io/badge/notes-v1.0-blue.svg)   ![example](https://img.shields.io/badge/user:-sakura-blue.svg)
 # Notes
-- 这个项目保存了我学习过程中的一些笔记,包括一套系统的QT教程，C++,数据结构,一小部分面试题,还有一部分是LeetCode 的刷题记录;另外,附上学习通道,希望帮得上你
+- 这个项目保存了我学习过程中的一些笔记,包括一套系统的QT教程，C++,数据结构,一小部分面试题,还有一部分是LeetCode 的刷题记录;另外,附上学习通道,希望帮得上你  
+***
 
 ## 笔记目录
 
@@ -16,7 +17,8 @@
 
 - [面试题](https://github.com/Sakura7301/Notes/tree/master/Notes/The%20interview)
 
-我上传的是pdf格式,建议你下载后查看。
+我上传的是pdf格式,建议你下载后查看。  
+***
 
 ## 原视频地址(顺序就是学习路线)
 
@@ -44,7 +46,8 @@
 
 - [设计模式(李建忠老师版本)](https://www.bilibili.com/video/BV18f4y137xt)
 
-- [C++11进阶](https://www.bilibili.com/video/BV1bX4y1G7ks)
+- [C++11进阶](https://www.bilibili.com/video/BV1bX4y1G7ks)  
+***
 
 ## 良心博文推荐
 
@@ -62,7 +65,9 @@
 ->如果你想学习C++11,那么不应该错过这个网站
 
 - [大丙老师的C++11教程](https://subingwen.cn/cplusplus/)
-->大丙老师汇总了一些常用的C++11特性进行讲解,值得学习!
+->大丙老师汇总了一些常用的C++11特性进行讲解,值得学习!  
+
+***
 
 
 
