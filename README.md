@@ -24,6 +24,8 @@
 
 [LeetCode必备算法知识和练习题](https://www.bilibili.com/video/BV1xt4y1e7q4)
 
+[数据结构](https://www.bilibili.com/video/BV1Vb411J7XD)
+
 **致谢**
-B站up主 爱敲代码的饲养员、斧头帮帮主
+B站up主爱敲代码的饲养员、斧头帮帮主和上传免费学习资源的同学们。
 
