@@ -12,6 +12,8 @@
 
 [QT](https://github.com/Sakura7301/Notes/tree/master/Notes/QT)
 
+[设计模式](https://github.com/Sakura7301/Notes/tree/master/Notes/Gof)
+
 [面试题](https://github.com/Sakura7301/Notes/tree/master/Notes/The%20interview)
 
 我上传的是pdf格式,你可以下载后查看。
