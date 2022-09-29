@@ -47,7 +47,7 @@
 
 - [设计模式(黑马程序员版本)](https://www.bilibili.com/video/BV1Mb411t7ut)
 
-- [设计模式(李建忠老师版本)](https://www.bilibili.com/video/BV18f4y137xt)
+- [设计模式(李建忠老师版本)](https://pan.baidu.com/s/1FIAz7R57nPsjeLCR3tx-BA?pwd=6666)
 
 - [C++11进阶](https://www.bilibili.com/video/BV1bX4y1G7ks)  
 ***
