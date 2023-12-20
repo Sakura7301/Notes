@@ -15,7 +15,11 @@
 
 - [设计模式](https://github.com/Sakura7301/Notes/tree/master/Notes/Gof)
 
-- [面试题汇总](https://github.com/Sakura7301/Notes/tree/master/Notes/The%20interview)  
+- [面试题汇总](https://github.com/Sakura7301/Notes/tree/master/Notes/the_interview)
+
+- [git简易教程](https://github.com/Sakura7301/Notes/tree/master/Notes/git)
+
+- [tls相关](https://github.com/Sakura7301/Notes/tree/master/Notes/tls)
 
 **最后,恬不知耻的推一下我整理的C++11吧(滑稽)  
 指路-->[Cplusplus_11](https://github.com/Sakura7301/Cplusplus_11)**
